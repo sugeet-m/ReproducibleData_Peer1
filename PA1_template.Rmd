@@ -2,7 +2,9 @@
 title: "ReproducibleData_Peer1"
 author: "Sugeet-m"
 date: "2025-04-24"
-output: html_document
+output: 
+  html_document: 
+    keep_md: true
 ---
 ---
 title: "Reproducible Research Assignment 1"
